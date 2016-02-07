@@ -1,0 +1,20 @@
+category_map:
+  0: No value
+  1: Open Water
+  2: Developed, Open Space
+  3: Developed, Low Intensity
+  4: Developed, Medium Intensity
+  5: Developed, High Intensity
+  6: Barren Land (Rock/Sand/Clay)
+  7: Deciduous Forest
+  8: Evergreen Forest
+  9: Mixed Forest
+  10: Shrub/Scrub
+  11: Herbaceous
+  12: Pasture/Hay
+  13: Cultivated Crops
+  14: Woody Wetlands
+  15: Emergent Herbaceous Wetlands
+csv_output_path: C:\output\
+raster_categories_path: C:\gis_local\landcover\national_landcover_ga_2011\
+vector_overlay_path: C:\Temp\
