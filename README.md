@@ -1,5 +1,5 @@
 # rastcats
-Enables counts of pixels by category of a raster category file within polygon areas of a vector overlay file. 
+Enables counts of pixels by category of a raster category file within polygon areas of a polygon vector overlay file. 
 To install program download zipped file from 
 https://github.com/gakrakow/rastcats/releases/download/v0.1/rastcats-0.1.zip
 
